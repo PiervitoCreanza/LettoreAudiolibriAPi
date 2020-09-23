@@ -1,0 +1,114 @@
+19992
+MARCHIORO, Narcisa
+Lo sguardo curioso A
+Pearson
+Milano 2013
+ALBONICO Anna
+ 35 
+000,          2,            001_p8
+Titolo opera: Lo sguardo curioso A
+0,            -
+Dati editoriali
+6,            -
+001_p8,       1,            002_p13
+Il linguaggio visivo
+0,            8
+002_p13,      1,            003_p22
+Il punto e la linea
+0,            13
+003_p22,      1,            004_p28
+La superficie
+0,            22
+004_p28,      1,            005_p38
+Il colore
+0,            28
+005_p38,      1,            006_p45
+La luce
+0,            38
+006_p45,      1,            007_p60
+Lo spazio
+0,            45
+007_p60,      1,            008_p76
+La composizione
+0,            60
+008_p76,      1,            009_p82
+La comunicazione visiva e i suoi mezzi
+0,            76
+009_p82,      1,            010_p88
+La grafica
+0,            82
+010_p88,      1,            011_p94
+Il design
+0,            88
+011_p94,      1,            012_p100
+La pubblicit�
+0,            94
+012_p100,     1,            013_p106
+Il web design
+0,            100
+013_p106,     1,            014_p112
+Il fumetto
+0,            106
+014_p112,     1,            015_p119
+La fotografia
+0,            112
+015_p119,     1,            016_p125
+Il cinema
+0,            119
+016_p125,     1,            017_p129
+Il cinema d'animazione
+0,            125
+017_p129,     1,            018_p133
+La televisione
+0,            129
+018_p133,     1,            019_p140
+I temi operativi
+0,            133
+019_p140,     1,            020_p143
+Foglie e fiori
+0,            140
+020_p143,     1,            021_p147
+Alberi
+0,            143
+021_p147,     1,            022_p151
+Animali
+0,            147
+022_p151,     1,            023_p155
+Colline e montagne
+0,            151
+023_p155,     1,            024_p159
+Acqua e cielo
+0,            155
+024_p159,     1,            025_p163
+Oggetti e natura morta
+0,            159
+025_p163,     1,            026_p173
+La figura umana
+0,            163
+026_p173,     1,            027_p176
+Paesaggio urbano
+0,            173
+027_p176,     1,            028_p181
+Sensazioni
+0,            176
+028_p181,     1,            029_p192
+Tecniche e strumenti
+0,            181
+029_p192,     1,            030_p206
+Le tecniche di stampa
+0,            192
+030_p206,     1,            031_p214
+Le tecniche plastiche
+0,            206
+031_p214,     1,            032_p221
+Graphical computer
+0,            214
+032_p221,     1,            033_p228
+Un patrimonio di tutti
+0,            221
+033_p228,     1,            034_p231
+Il restauro
+0,            228
+034_p231,     1,            
+La promozione del patrimonio
+0,            231
